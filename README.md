@@ -2,6 +2,16 @@ Basic Text Editor using Python.
 
 Using tkinter and customtkinter
 
-Current functions are Save, Open and Dark/Light mode switch. New button currently not working.
+Features Include
+Open File
+Save File
+New Button - Clears content in text editor
+Exit Button - Closes application
+Undo 
+Redo
 
-Slightly updated UI, refactored code.
+Bold & Italic, Slight bug with these functions changing entire widget and not selected text only.
+
+
+
+
